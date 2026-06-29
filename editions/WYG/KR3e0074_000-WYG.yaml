@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0074/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部五
+  hash: sha256:385bc2d94867d1b606f43bb11ebdc68a3a5579aafe48be2b02b9eb652717f689
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0074_WYG_000-1a, image: WYG0765/WYG0765-0325a.png}
+body:
+  text: 石山醫案醫家類提要臣等謹案石山醫案三卷明陳桷編桷祁門人學醫於同邑汪機因取機諸弟子所記機治療效驗裒為一集每卷之中畧分門類為次自宋金以來太平恵民和劑局方行於南河閒原病式宣明論方行於北局方多溫燥之藥河閒主㵼火之説其流弊亦適相等元朱震亨始矯局方之偏通河間之變而補陰之説出焉機所作推求師意一書寔由戴元履以溯震亨故其持論多主丹溪之法然王氏明醫雜著株守丹溪主於過用苦寒機復為論以辨之其文今附醫案之末則機亦因証處方非拘泥一格者矣其隨試輒效固有由也舊本又有機門人程鐈所作病用參耆論一篇又有機所作其父行狀及李汛所作機小傳今亦併録之備參考焉乾隆四十三年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:4c32388441b105d5128e4b4c5d918fa4e569d539dcb3cb2932da9553c6351a9b
+metadata:
+  title: 石山醫案
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:07:22.765736'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3e0074/KR3e0074_000.txt
+hash: sha256:cfe912ca8ac4ee7e2779b784439845471421411d8d21e663ace74f462dd121ae
